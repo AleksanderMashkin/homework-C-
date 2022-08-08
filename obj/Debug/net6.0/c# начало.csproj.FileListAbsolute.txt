@@ -1,0 +1,15 @@
+/Users/aleksandrmaskin/Desktop/c# начало/bin/Debug/net6.0/c# начало
+/Users/aleksandrmaskin/Desktop/c# начало/bin/Debug/net6.0/c# начало.deps.json
+/Users/aleksandrmaskin/Desktop/c# начало/bin/Debug/net6.0/c# начало.runtimeconfig.json
+/Users/aleksandrmaskin/Desktop/c# начало/bin/Debug/net6.0/c# начало.dll
+/Users/aleksandrmaskin/Desktop/c# начало/bin/Debug/net6.0/c# начало.pdb
+/Users/aleksandrmaskin/Desktop/c# начало/obj/Debug/net6.0/c# начало.csproj.AssemblyReference.cache
+/Users/aleksandrmaskin/Desktop/c# начало/obj/Debug/net6.0/c# начало.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrmaskin/Desktop/c# начало/obj/Debug/net6.0/c# начало.AssemblyInfoInputs.cache
+/Users/aleksandrmaskin/Desktop/c# начало/obj/Debug/net6.0/c# начало.AssemblyInfo.cs
+/Users/aleksandrmaskin/Desktop/c# начало/obj/Debug/net6.0/c# начало.csproj.CoreCompileInputs.cache
+/Users/aleksandrmaskin/Desktop/c# начало/obj/Debug/net6.0/c# начало.dll
+/Users/aleksandrmaskin/Desktop/c# начало/obj/Debug/net6.0/refint/c# начало.dll
+/Users/aleksandrmaskin/Desktop/c# начало/obj/Debug/net6.0/c# начало.pdb
+/Users/aleksandrmaskin/Desktop/c# начало/obj/Debug/net6.0/c# начало.genruntimeconfig.cache
+/Users/aleksandrmaskin/Desktop/c# начало/obj/Debug/net6.0/ref/c# начало.dll
